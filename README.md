@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Juan Sanchez — a 23-year-old Computer Engineering student passionate about software development and data science.
+### I'm Juan Sanchez — a Computer Engineering student passionate about software development and data science.
 
 ---
 
