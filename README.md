@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Juan Sanchez — a Computer Engineering student passionate about software development and data science.
+### I'm Juan Sanchez — a Software Engineering student passionate about software development.
 
 ---
 
@@ -9,14 +9,13 @@
 - 🔭 Currently developing a system as my final year project.
 - 💻 I work with: **C, Java, Java Spring, Python, React, Node.js, Next.js**.
 - 🛠️ Strong background in software architecture and engineering, including SOLID principles.
-- 🌱 Always learning more about software development and data science.
-- 🤝 Open to collaborating on interesting tech projects.
+- 🌱 Always learning more about software development.
 
 ---
 
 ## 📫 Contact
 
-- Email: juanma2002123@gmail.com
+- Email: juansr02@outlook.com
 
 ---
 
