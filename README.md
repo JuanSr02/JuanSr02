@@ -1,13 +1,12 @@
 # Hi there 👋
 
-### I'm Juan Sanchez — a Software Engineering student passionate about software development.
+### I'm Juan Sanchez — a Software Engineer passionate about software development.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently developing a system as my final year project.
-- 💻 I work with: **C, Java, Java Spring, Python, React, Node.js, Next.js**.
+- 💻 I work with: **C, Java, Java Spring, Python, React, Node.js, Next.js, PLSQL, Oracle APEX**.
 - 🛠️ Strong background in software architecture and engineering, including SOLID principles.
 - 🌱 Always learning more about software development.
 
